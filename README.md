@@ -33,6 +33,7 @@ and how they were resolved.
 
 ## Screenshots
 
+<img width="1405" height="761" alt="Screenshot 2026-11-16 111317" src="https://github.com/user-attachments/assets/e9a3514d-f7e1-4b46-952d-8a4f7dccc91f" />
 
 ## What I Learned
 Document the technical skills and concepts
