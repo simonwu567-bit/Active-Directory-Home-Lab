@@ -6,8 +6,8 @@ Active Directory administration and basic IT support tasks.
 
 ## Lab Environment
 - VMware Workstation
-- Windows Server 2022 (DC01)
-- Windows 11 Client (CLIENT01) 
+- Windows Server 2022 
+- Windows 11 Client  
 - Active Directory Domain: corp.internal
 
 ## Objectives
