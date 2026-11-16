@@ -28,11 +28,18 @@ Active Directory administration and basic IT support tasks.
 - Practiced password ressets
 
 ## Troubleshooting
-
+1) A user changed DNS server assignment to manual and entered 8.8.8.8 resulting in a loss of internet
+- Fixed this by changing back to automatic connection of DNS server assignment
+- Used ipconfig /flushdns to break connection
+- Used Nslookup to resestablish connection
+- Used ping to test connection
 
 ## Screenshots
 #Simulated reseting passwords and disabling accounts
 <img width="1405" height="761" alt="Screenshot 2026-11-16 111317" src="https://github.com/user-attachments/assets/e9a3514d-f7e1-4b46-952d-8a4f7dccc91f" />
+
+#Troubleshooting 1
+<img width="567" height="521" alt="Screenshot 2026-11-16 121415" src="https://github.com/user-attachments/assets/485b832a-bdf1-4973-b1c9-af053f640c1b" />
 
 ## What I Learned
 Document the technical skills and concepts
